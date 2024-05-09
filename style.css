@@ -54,3 +54,11 @@ button{
     opacity: 1;
     transition: opacity 1.5s;
 }
+
+small{
+    font-style: italic;
+    font-size: 15px;
+    display: block;
+    color: #fff;
+    text-align: end;
+}
